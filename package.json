@@ -1,0 +1,15 @@
+{
+  "name": "domanjavona",
+  "version": "0.0.1",
+  "description": "Génerateur de Dom sans outils supplémentaire à part un navigateur",
+  "main": "domanjavona.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "zavona"
+  ],
+  "author": "Ritchi",
+  "license": "ISC"
+}

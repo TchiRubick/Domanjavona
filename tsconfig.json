@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"module": "commonjs",
+		"esModuleInterop": true,
+		"target": "es5",
+		"noImplicitAny": true,
+		"moduleResolution": "node",
+		// "sourceMap": true,
+		"outDir": "dist",
+		"baseUrl": ".",
+		"inlineSources": true,
+		"inlineSourceMap": true,
+		"downlevelIteration": true,
+		"alwaysStrict": true
+	},
+	"include": ["domanjavona.ts"]
+}
